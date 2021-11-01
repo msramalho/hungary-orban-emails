@@ -4,7 +4,9 @@ source = input("what is the source (gov, orban, ...)?")
 
 def do_for_lang(lang):
     title = input("what is the title of the email in %s?" % lang)
-    body = input("what is the body of the email in %s?" % lang)
+    sentinel = "---"
+    print("what is the body of the email in %s? [end with '%s']" % (lang, sentinel))
+    body = '\n'.join(iter(input, sentinel))
 
     with open("%s/template.md" % lang, "r", encoding="utf-8") as template:
         doc = template.read().strip()
