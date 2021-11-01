@@ -1,11 +1,10 @@
 [home](../README.md)
  | 
-[english](../en/date.md)
+[english](../en/[[DAY]].md)
 
-### Title
+### [[TITLE]]
 
-<!-- email here -->
+[[BODY]]
 
 ---
-
-`DoW datetime`
+`[[FULL_DATE]]`
