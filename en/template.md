@@ -1,4 +1,4 @@
-[back](../README.md)
+[home](../README.md)
  | 
 [hungarian](../hu/date.md)
 
