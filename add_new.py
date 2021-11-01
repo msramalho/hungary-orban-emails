@@ -24,7 +24,7 @@ def do_for_lang(lang):
 
 title_hu = do_for_lang("hu")
 title_en = do_for_lang("en")
-
+print("Done, please add these lines to the top of the README.md list:\n\n")
 print(
 f"""
 * `[{day}]` from **{source}**: 

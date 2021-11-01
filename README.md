@@ -1,6 +1,10 @@
 ## Public list of Hungary and Viktor Orbán's Covid emails
 Collection of all emails sent from the Hungarian government and Viktor Orbán to the citizens of Hungary, with english translation, from March 2021 onwards, most recent first:
 
+
+* `[2021-04-27]` from **gov**:
+  * en - [Statistics on each type of vaccine](en/2021-04-27.md)
+  * hu - [Statisztika az egyes vakcinatípusokról](hu/2021-04-27.md)
 * `[2021-04-24]` from **gov**:
   * en - [Online appointment booking for vaccination](en/2021-04-24.md) 
   * hu - [Internetes időpontfoglalás oltásra](hu/2021-04-24.md)
