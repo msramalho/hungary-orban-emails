@@ -2,6 +2,12 @@
 Collection of all emails sent from the Hungarian government and Viktor Orbán to the citizens of Hungary, with english translation, from March 2021 onwards, most recent first:
 
 
+* `[2021-07-04]` from **gov**:
+  * en - [Further steps in restarting 5.5 million vaccinated](en/2021-07-04.md)
+  * hu - [Az újraindítás újabb lépései 5,5 millió beoltottnál](hu/2021-07-04.md)
+* `[2021-05-22]` from **gov**:
+  * en - [Next steps to restart](en/2021-05-22.md)
+  * hu - [Az újraindítás következő lépései](hu/2021-05-22.md)
 * `[2021-05-01]` from **gov**:
   * en - [Next steps for reopening](en/2021-05-01.md)
   * hu - [Az újraindítás újabb lépései](hu/2021-05-01.md)
