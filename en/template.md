@@ -4,8 +4,7 @@
 
 ### Title
 
-```
-Email
-```
+<!-- email here -->
 
-received at: `DoW, datetime`
+---
+`DoW datetime`
