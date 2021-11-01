@@ -2,6 +2,9 @@
 Collection of all emails sent from the Hungarian government and Viktor Orbán to the citizens of Hungary, with english translation, from March 2021 onwards, most recent first:
 
 
+* `[2021-10-11]` from **orban**:
+  * en - [Information on government decisions](en/2021-10-11.md)        
+  * hu - [Tájékoztatás a kormány döntéseiről](hu/2021-10-11.md)
 * `[2021-08-05]` from **orban**:
   * en - [Vaccination saved lives!](en/2021-08-05.md)
   * hu - [Az oltás életet ment!](hu/2021-08-05.md)
