@@ -1,4 +1,4 @@
-## Public list of Hungary and Viktor Orbán's Covid emails
+## Public list of Hungary and Viktor Orbán's emails since March 2021
 Collection of all emails sent from the Hungarian government and Viktor Orbán to the citizens of Hungary, with english translation, from March 2021 onwards, most recent first.
 
 > Hungary will have [parliamentary elections in 2022](https://en.wikipedia.org/wiki/2022_Hungarian_parliamentary_election), in April or May, and some of **orban**'s emails show just that.
