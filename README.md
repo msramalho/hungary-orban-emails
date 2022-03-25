@@ -3,6 +3,9 @@ Collection of emails sent from the Hungarian government and Viktor Orbán to the
 
 > Hungary will have [parliamentary elections in 2022](https://en.wikipedia.org/wiki/2022_Hungarian_parliamentary_election), in April or May, and some of **orban**'s emails show just that.
 
+* `[2022-03-22]` from **gov**:
+  * en - [Information on economic sanctions envisaged](en/2022-03-22.md)
+  * hu - [Tájékoztatás a kilátásba helyezett gazdasági szankciókról](hu/2022-03-22.md)
 * `[2022-03-10]` from **gov**:
   * en - [Information on the economic consequences of the Russo-Ukrainian war](en/2022-03-10.md)       
   * hu - [Tájékoztatás az orosz-ukrán háború gazdasági következményeivel kapcsolatban](hu/2022-03-10.md)
