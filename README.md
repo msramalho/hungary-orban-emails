@@ -5,6 +5,12 @@ Collection of emails sent from the Hungarian government and Viktor Orbán to the
 
 > Hungary will have [parliamentary elections on April 3rd 2022](https://en.wikipedia.org/wiki/2022_Hungarian_parliamentary_election), some of **orban**'s emails show just that.
 
+* `[2023-01-18]` from **gov**:
+  * en - [Results of the national consultation](en/2023-01-18.md)
+  * hu - [A nemzeti konzultáció eredményei](hu/2023-01-18.md)
+* `[2022-12-10]` from **gov**:
+  * en - [You can fill out the consultation on sanctions until December 15](en/2022-12-10.md)
+  * hu - [December 15-ig lehet kitölteni a szankciókról szóló konzultációt](hu/2022-12-10.md)
 * `[2022-06-01]` from **gov**:
   * en - [Hungary is exempt from the oil embargo](en/2022-06-01.md)
   * hu - [Magyarország mentesül az olajembargó alól](hu/2022-06-01.md)
