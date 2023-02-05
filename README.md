@@ -11,6 +11,9 @@ Collection of emails sent from the Hungarian government and Viktor Orbán to the
 * `[2022-12-10]` from **gov**:
   * en - [You can fill out the consultation on sanctions until December 15](en/2022-12-10.md)
   * hu - [December 15-ig lehet kitölteni a szankciókról szóló konzultációt](hu/2022-12-10.md)
+* `[2022-11-21]` from **orban**: 
+  * en - [The consultation on sanctions can already be completed online](en/2022-11-21.md)
+  * hu - [Már az interneten is kitölthető a szankciókról szóló konzultáció](hu/2022-11-21.md)
 * `[2022-06-01]` from **gov**:
   * en - [Hungary is exempt from the oil embargo](en/2022-06-01.md)
   * hu - [Magyarország mentesül az olajembargó alól](hu/2022-06-01.md)
